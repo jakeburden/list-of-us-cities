@@ -1,0 +1,27 @@
+{
+  "name": "list-of-us-cities",
+  "version": "1.0.0",
+  "description": "an array of us cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/list-of-us-cities.git"
+  },
+  "keywords": [
+    "list",
+    "array",
+    "united",
+    "states",
+    "us",
+    "cities"
+  ],
+  "author": "Jake Burden <Jacob.JW.Burden@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jekrb/list-of-us-cities/issues"
+  },
+  "homepage": "https://github.com/jekrb/list-of-us-cities#readme"
+}

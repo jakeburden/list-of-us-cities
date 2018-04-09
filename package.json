@@ -1,6 +1,6 @@
 {
   "name": "list-of-us-cities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an array of us cities",
   "main": "index.js",
   "scripts": {
